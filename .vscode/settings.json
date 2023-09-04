@@ -1,0 +1,11 @@
+{
+    "settings": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 2,
+        // Add other workspace standard settings here
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+      },
+      "standard.enable": true,
+}
